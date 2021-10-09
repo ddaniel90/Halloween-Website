@@ -3,7 +3,7 @@
 Responsive Halloween Website 
 Start up landing page for a web application named Fangtastic
 
- ## Deployment
+🔗 ## Deployment
 
 Deployed Website: https://github.com/ddaniel90/Halloween-Website </br>
 Demo : https://ink.ddaniel.ro/
@@ -16,7 +16,12 @@ Demo : https://ink.ddaniel.ro/
   * HTML
   * CSS
   * JavaScript
-  
+  - Contains animations when scrolling.
+- It has three color designs (green, red and black)
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+ 
   👨‍🎨 Inspirate from : https://www.figma.com/community/file/89841010124
   
   ## License
