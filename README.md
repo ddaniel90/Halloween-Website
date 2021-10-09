@@ -6,7 +6,7 @@ Start up landing page for a web application named Fangtastic
 🔗 ## Deployment
 
 Deployed Website: https://github.com/ddaniel90/Halloween-Website </br>
-Demo : https://ddaniel90.github.io/Halloween-Website/
+Demo : http://fangtastic.ddaniel.ro/
 
 # Screenshots
 ![halloween](/preview.png)
