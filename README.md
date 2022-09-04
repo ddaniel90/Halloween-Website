@@ -1,8 +1,7 @@
-📸 # Let's take a beautiful picture![PhotographerCameraGIF](https://user-images.githubusercontent.com/79249614/188328673-ff284180-ff4f-4379-8566-682097e53892.gif)
-
+📸 # Let's take a beautiful picture!
 
 Responsive Photographer Website 
-Start up landing page for a web application named Fangtastic
+Start up landing page for a web application named Elena Joy | Photographer
 
 🔗 ## Deployment
 
